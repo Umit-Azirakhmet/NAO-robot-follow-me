@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-This project involves creating a "Follow Me" application for a Pepper robot using the Python NaoQi SDK. The application allows the robot to follow a human user, with the robot's movements controlled through physical interactions with its arm joints.
+This project involves creating a "Follow Me" application for NAO robot using the Python NaoQi SDK. The application allows the robot to follow a human user, with the robot's movements controlled through physical interactions with its arm joints.
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ This project involves creating a "Follow Me" application for a Pepper robot usin
 
 - Smooth robot following motion
 - Robot speed control through arm joint manipulation
-- Integration with human pose recognition (Extra credit)
+- Integration with human pose recognition
 
 ## Documentation
 
